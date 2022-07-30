@@ -1,0 +1,15 @@
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\bin\Debug\net6.0\AporteApp2.exe
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\bin\Debug\net6.0\AporteApp2.deps.json
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\bin\Debug\net6.0\AporteApp2.runtimeconfig.json
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\bin\Debug\net6.0\AporteApp2.dll
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\bin\Debug\net6.0\AporteApp2.pdb
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.csproj.AssemblyReference.cache
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.AssemblyInfoInputs.cache
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.AssemblyInfo.cs
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.csproj.CoreCompileInputs.cache
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.dll
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\refint\AporteApp2.dll
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.pdb
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\AporteApp2.genruntimeconfig.cache
+C:\Users\Backup\source\repos\AporteApp2\AporteApp2\obj\Debug\net6.0\ref\AporteApp2.dll

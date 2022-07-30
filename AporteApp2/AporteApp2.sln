@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AporteApp2", "AporteApp2\AporteApp2.csproj", "{32CDB451-C3D5-4F5E-9F6E-90B6F035E278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CDB451-C3D5-4F5E-9F6E-90B6F035E278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CDB451-C3D5-4F5E-9F6E-90B6F035E278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CDB451-C3D5-4F5E-9F6E-90B6F035E278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CDB451-C3D5-4F5E-9F6E-90B6F035E278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59329E1B-758C-4B29-B328-E896C4E82F86}
+	EndGlobalSection
+EndGlobal
